@@ -11,3 +11,7 @@
 ### Cycle time
 
 ## estimate &amp; stability
+
+## flow &amp; usage
+
+## visibility (dashboard)
