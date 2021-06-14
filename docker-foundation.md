@@ -22,4 +22,4 @@
 
 ### dockerignore
 
-## ECS &amp; alternatives
+## ECS, k8s &amp; alternatives
