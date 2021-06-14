@@ -19,3 +19,11 @@
 ### SCSS
 
 ## JavaScript Promise
+
+## react component
+
+## props &amp; state
+
+### redux
+
+## react hook
