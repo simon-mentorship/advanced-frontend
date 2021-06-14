@@ -41,3 +41,5 @@
 ### retry mechanism
 
 ## react routes
+
+## SSR - server side rendering
