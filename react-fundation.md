@@ -42,6 +42,6 @@
 
 ## react routes
 
-## SSR - server side rendering
+## SPA - single page application &amp; SSR - server side rendering
 
 ## font icons
