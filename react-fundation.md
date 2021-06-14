@@ -43,3 +43,5 @@
 ## react routes
 
 ## SSR - server side rendering
+
+## font icons
