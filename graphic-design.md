@@ -17,3 +17,5 @@
 ## heat map
 
 ## responsive design 
+
+## colour palette
