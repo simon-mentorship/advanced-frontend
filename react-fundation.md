@@ -27,3 +27,13 @@
 ### redux
 
 ## react hook
+
+## bootstrap &amp; responsive design
+
+## flexbox &amp; grid system
+
+## error handling
+
+### .then().catch() &amp; async await
+
+### retry mechanism
