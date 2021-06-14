@@ -30,9 +30,9 @@
 
 ## react hook
 
-## bootstrap &amp; responsive design
-
 ## flexbox &amp; grid system
+
+## bootstrap &amp; responsive design
 
 ## error handling
 
