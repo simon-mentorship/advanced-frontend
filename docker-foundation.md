@@ -16,4 +16,6 @@
 
 ## registries
 
+### docker push
+
 ## Dockerfile &amp; docker-compose
