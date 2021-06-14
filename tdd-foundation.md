@@ -1,14 +1,15 @@
 # TDD - Test Driven Development
 
-## The definition of tests
+## the definition of tests
 
-## Tests are (not) unit tests
+## tests are (not) unit tests
 
-## Test on the functionarlity, not the structure
+## test on the functionarlity, not the structure
 
-## TDD Principles
+## clean code
+
+## TDD principles
 
 ## jest &amp; react testing library
 
 ### mockFn
-
