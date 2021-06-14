@@ -23,3 +23,7 @@
 ### dockerignore
 
 ## ECS, k8s &amp; alternatives
+
+## load balancer
+
+## configuration &amp; secrets
