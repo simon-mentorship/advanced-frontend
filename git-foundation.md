@@ -23,3 +23,7 @@
 ## Pull Request
 
 ### merge &amp; squash and merge
+
+## CI &amp; CD
+
+### GitHub Actions &amp; TeamCity &amp; Jenkins
