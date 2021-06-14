@@ -19,3 +19,7 @@
 ### docker push
 
 ## Dockerfile &amp; docker-compose
+
+### dockerignore
+
+## ECS &amp; alternatives
