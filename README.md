@@ -16,4 +16,4 @@
 
 [graphic design](./graphic-design.md)
 
-[Security](./security-function.md)
+[security](./security-function.md)
