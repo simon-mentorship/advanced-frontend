@@ -8,8 +8,6 @@
 
 ## microservices &amp; monolithic architecture(s)
 
-## TDD
-
 ## MVC
 
 ## error handling
@@ -19,6 +17,8 @@
 ### retry mechanism
 
 ## middleware
+
+## caching
 
 ## host react app
 
