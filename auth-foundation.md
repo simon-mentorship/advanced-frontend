@@ -16,6 +16,4 @@
 
 ## HTTP Response
 
-## Swagger
-
 ## API (Service) Client
