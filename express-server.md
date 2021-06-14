@@ -11,3 +11,12 @@
 ## TDD
 
 ## MVC
+
+## error handling
+
+### .then().catch() &amp; async await
+
+### retry mechanism
+
+## middleware
+
