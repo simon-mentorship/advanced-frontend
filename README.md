@@ -1,19 +1,33 @@
-# FrontEnd foundation
+# Advanced FrontEnd technologies
 
-[git](./git-foundation.md)
+Go in-depth of FrontEnd technologies with containerized web server. [14weeks, 2hours/week]
 
-[react app](./react-fundation.md)
+## About this course
+
+**This is a fast-pace, practical course.**
+
+
+
+## Who is this course for?
+
+This course is suitable for those who want to gain a greater understanding of the FrontEnd technologies with experiencing the industry standards. 
+
+## Course framework
+
+[git](./git.md)
+
+[react app](./react.md)
 
 [express server](./express-server.md)
 
-[auth](./auth-foundation.md)
+[auth](./auth.md)
 
-[TDD - Test Driven Development](./tdd-foundation.md)
+[TDD - Test Driven Development](./tdd.md)
 
-[docker](./docker-foundation.md)
+[docker](./docker.md)
 
-[agile](./agile-foundation.md)
+[agile](./agile.md)
 
 [graphic design](./graphic-design.md)
 
-[security](./security-fundation.md)
+[security](./security.md)
