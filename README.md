@@ -6,11 +6,11 @@ Go in-depth of FrontEnd technologies with containerized web server. [14weeks, 2h
 
 **This is a fast-pace, practical course.**
 
-
+Implementing a secret snapping approach brings together the frontend framework react with the containerized express server to develop a secured web service with high availibility. 
 
 ## Who is this course for?
 
-This course is suitable for those who want to gain a greater understanding of the FrontEnd technologies with experiencing the industry standards. 
+This course is suitable for those who want to gain a greater understanding of the FrontEnd technologies with experiencing the current industry standards. 
 
 ## Course framework
 
